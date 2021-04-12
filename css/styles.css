@@ -3840,19 +3840,19 @@ input[type=button].btn-block {
   border-radius: 1rem;
 }
 .custom-range:disabled::-webkit-slider-thumb {
-  background-color: #f8d7da;
+  background-color: #00EC00;
 }
 .custom-range:disabled::-webkit-slider-runnable-track {
   cursor: default;
 }
 .custom-range:disabled::-moz-range-thumb {
-  background-color: #f8d7da;
+  background-color: #00EC00;
 }
 .custom-range:disabled::-moz-range-track {
   cursor: default;
 }
 .custom-range:disabled::-ms-thumb {
-  background-color: #f8d7da;
+  background-color: #00EC00;
 }
 
 .custom-control-label::before,
