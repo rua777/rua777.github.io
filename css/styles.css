@@ -3819,7 +3819,7 @@ input[type=button].btn-block {
   }
 }
 .custom-range::-ms-thumb:active {
-  background-color: #ebc9bc;
+  background-color: #00EC00;
 }
 .custom-range::-ms-track {
   width: 100%;
