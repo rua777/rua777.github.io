@@ -1972,7 +1972,7 @@ pre code {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
+  color:#233608;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -1990,10 +1990,10 @@ pre code {
 }
 .form-control:-moz-focusring {
   color: transparent;
-  text-shadow: 0 0 0 #495057;
+  text-shadow: 0 0 0 #233608;
 }
 .form-control:focus {
-  color: #495057;
+  color: #233608;
   background-color: #fff;
   border-color: #e0aa95;
   outline: 0;
